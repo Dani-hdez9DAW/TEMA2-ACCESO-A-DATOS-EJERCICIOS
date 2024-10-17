@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><conciertos>
+    <concierto>
+        <grupo>GRUPO</grupo>
+        <lugar>LUGARFECHA</lugar>
+        <fecha/>
+        <hora>HORA</hora>
+    </concierto>
+    <concierto>
+        <grupo>SONATA ARCTICA</grupo>
+        <lugar>Conciertos WiZink Center - MadridViernes 04 octubre 2024</lugar>
+        <fecha/>
+        <hora>20:00 H.</hora>
+    </concierto>
+    <concierto>
+        <grupo>LOS CHICHOS- HASTA AQUI? HEMOS LLEGADO (2)</grupo>
+        <lugar>Conciertos WiZink Center - MadridViernes 04 octubre 2024</lugar>
+        <fecha/>
+        <hora>20:45 H.</hora>
+    </concierto>
+    <concierto>
+        <grupo>LA PEGATINA - HASTA LUEGO MARI CARMEN</grupo>
+        <lugar>Conciertos WiZink Center - MadridSabado 05 octubre 2024</lugar>
+        <fecha/>
+        <hora>20:30 H.</hora>
+    </concierto>
+    <concierto>
+        <grupo>CEPEDA - CONTRADICCION TOUR</grupo>
+        <lugar>Conciertos WiZink Center - MadridSabado 05 octubre 2024</lugar>
+        <fecha/>
+        <hora>21:00 H.</hora>
+    </concierto>
+    <concierto>
+        <grupo>RAFA ESPINO - 15 ANIVERSARIO</grupo>
+        <lugar>Conciertos WiZink Center - MadridDomingo 06 octubre 2024</lugar>
+        <fecha/>
+        <hora>19:00 H.</hora>
+    </concierto>
+    <concierto>
+        <grupo>MELANIE MARTINEZ - THE TRILOGY TOUR</grupo>
+        <lugar>Conciertos WiZink Center - MadridLunes 07 octubre 2024</lugar>
+        <fecha/>
+        <hora>21:00 H.</hora>
+    </concierto>
+    <concierto>
+        <grupo>MEUTE- EMPOR 2024</grupo>
+        <lugar>Conciertos WiZink Center - MadridMiercoles 09 octubre 2024</lugar>
+        <fecha/>
+        <hora>21:00 H.</hora>
+    </concierto>
+    <concierto>
+        <grupo>CRUSH- OCTUBRE 2024</grupo>
+        <lugar>Conciertos WiZink Center - MadridJueves 10 octubre 2024</lugar>
+        <fecha/>
+        <hora>19:30 H.</hora>
+    </concierto>
+    <concierto>
+        <grupo>DABUTI- OCTUBRE 2024</grupo>
+        <lugar>Conciertos WiZink Center - MadridViernes 11 octubre 2024</lugar>
+        <fecha/>
+        <hora>18:30 H.</hora>
+    </concierto>
+    <concierto>
+        <grupo>LA CASA AZUL</grupo>
+        <lugar>Conciertos WiZink Center - MadridViernes 11 octubre 2024</lugar>
+        <fecha/>
+        <hora>21:00 H.</hora>
+    </concierto>
+</conciertos>
